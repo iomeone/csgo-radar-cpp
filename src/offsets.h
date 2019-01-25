@@ -10,5 +10,5 @@ const DWORD oSpotted = 0x93D;
 
 //offsets - usually change every update
 const DWORD oLocalPlayer = 0xCBD6A4;
-const DWORD oEntityList = 0x4CCDC3C;
-const DWORD oGlowObjectManager = 0x520DA80;
+const DWORD oEntityList = 0x4CCDCBC;
+const DWORD oGlowObjectManager = 0x520DAE0;
